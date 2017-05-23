@@ -1,0 +1,23 @@
+{
+
+"images": [
+    "assets/img/spaceshipspritesheet.png"
+],
+
+"frames": [
+    [0, 0, 42, 42, 0, 21, 21],
+    [42, 0, 42, 42, 0, 21, 21],
+    [84, 0, 42, 42, 0, 21, 21]
+],
+"framerate": 16,
+"animations": {
+    "fly": { "frames": [1,2] },
+    "idle": { "frames": [0] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:d8a500875ce8ff064496bb9d87a1dc8e:5ff066ecbe6f85ae30eecf4209e8fdeb:02bdf69ac75c49b022648de6caecfa40$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
